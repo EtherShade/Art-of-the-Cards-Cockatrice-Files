@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>ACA</name>
+      <longname>The Art of the Cards alphatest</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Inkwell</name>
+      <set rarity="">ACA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Medium - Inkwell</type>
+        <maintype>Medium</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 0
+Starting Endurance: 5
+Tap this: You gain 1 Ink.</text>
+    </card>
+    <card>
+      <name>Comedy</name>
+      <set rarity="">ACA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Medium - Comedy</type>
+        <maintype>Medium</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 0
+At the start of your beginning phase, destroy Comedy and create a Tragedy token.
+Tap this: You gain 1 Comedy Mask.</text>
+    </card>
+    <card>
+      <name>Tragedy</name>
+      <set rarity="">ACA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Medium - Tragedy</type>
+        <maintype>Medium</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 0
+At the start of your beginning phase, destroy Tragedy and create a Comedy token.
+Tap this: You gain 1 Tragedy Mask.</text>
+    </card>
+    <card>
+      <name>The Ink Stares Back</name>
+      <set rarity="uncommon">ACA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Action</type>
+        <maintype>Action</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 3 Ink
+Return all Inkwell medium cards from your discard pile to your play zone.</text>
+    </card>
+    <card>
+      <name>Inkling</name>
+      <set rarity="">ACA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Quester</type>
+        <maintype>Quester</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Ink
+Starting Endurance: 3
+Attack = 1</text>
+    </card>
+    <card>
+      <name>Mite</name>
+      <set rarity="">ACA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Quester</type>
+        <maintype>Quester</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 0
+Starting Endurance: 3
+Attack = 0</text>
+    </card>
+    <card>
+      <name>Inkite</name>
+      <set rarity="">ACA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Quester</type>
+        <maintype>Quester</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Ink
+Starting Endurance: 1
+Attack = 2</text>
+    </card>
+    <card>
+      <name>Inkshield Trainee</name>
+      <set rarity="">ACA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Quester</type>
+        <maintype>Quester</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Any, 1 Ink
+Starting Endurance: 3
+Attack = 2</text>
+    </card>
+    <card>
+      <name>Inksword Trainee</name>
+      <set rarity="">ACA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Quester</type>
+        <maintype>Quester</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Any, 1 Ink
+Starting Endurance: 1
+Attack = 3</text>
+    </card>
+    <card>
+      <name>Armored Inkite</name>
+      <set rarity="">ACA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Quester</type>
+        <maintype>Quester</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Any, 1 Ink
+Starting Endurance: 1
+Attack = 3
+Armor 1  (This permanent takes 1 less damage from combat damage.)</text>
+    </card>
+    <card>
+      <name>Armored Inkling</name>
+      <set rarity="">ACA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Quester</type>
+        <maintype>Quester</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Any, 1 Ink
+Starting Endurance: 3
+Attack = 2
+Armor 1  (This permanent takes 1 less damage from combat damage.)</text>
+    </card>
+    <card>
+      <name>Armored Inkmite</name>
+      <set rarity="">ACA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Quester</type>
+        <maintype>Quester</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Any, 1 Ink
+Starting Endurance: 4
+Attack = 0
+Armor 1  (This permanent takes 1 less damage from combat damage.)</text>
+    </card>
+    <card>
+      <name>Inkmite</name>
+      <set rarity="">ACA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Quester</type>
+        <maintype>Quester</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Ink
+Starting Endurance: 4
+Attack = 0</text>
+    </card>
+    <card>
+      <name>Inkbeast</name>
+      <set rarity="">ACA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Quester</type>
+        <maintype>Quester</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Any, 1 Ink
+Starting Endurance: 4
+Attack = 3</text>
+    </card>
+    <card>
+      <name>Inkshifter</name>
+      <set rarity="uncommon">ACA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Quester</type>
+        <maintype>Quester</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = X Any, 1 Ink
+Starting Endurance: X
+Attack = 0
+Inkshifter enters play zones with X +1 Attack counters.</text>
+    </card>
+    <card>
+      <name>Inky Pyre</name>
+      <set rarity="common">ACA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Action</type>
+        <maintype>Action</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Ink
+Inky Pyre deals 1 damage to each creature.</text>
+    </card>
+    <card>
+      <name>Grammar</name>
+      <set rarity="common">ACA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Action</type>
+        <maintype>Action</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 1 Ink
+Draw a card. You gain 2 DP.</text>
+    </card>
+    <card>
+      <name>Inksight</name>
+      <set rarity="common">ACA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Action</type>
+        <maintype>Action</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 2 Any, 1 Ink
+Draw two cards.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Comedy [Token] ACA</name>
+      <set>ACA</set>
+      <prop>
+        <colors></colors>
+        <type>Token Basic Medium - Comedy</type>
+        <maintype>Medium</maintype>
+        <notes>!token
+!related Tragedy;Tragedy [Token] MOD</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 0
+At the start of your beginning phase, destroy Comedy and create a Tragedy token.
+Tap this: You gain 1 Comedy Mask</text>
+      <token>1</token>
+      <reverse-related>Tragedy</reverse-related>
+      <reverse-related>Tragedy [Token] MOD</reverse-related>
+    </card>
+    <card>
+      <name>Tragedy [Token] ACA</name>
+      <set>ACA</set>
+      <prop>
+        <colors></colors>
+        <type>Token Basic Medium - Tragedy</type>
+        <maintype>Medium</maintype>
+        <notes>!token
+!related Comedy;Comedy [Token] MOD</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cost = 0
+At the start of your beginning phase, destroy Tragedy and create a Comedy token.
+Tap this: You gain 1 Tragedy Mask.</text>
+      <token>1</token>
+      <reverse-related>Comedy</reverse-related>
+      <reverse-related>Comedy [Token] MOD</reverse-related>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
