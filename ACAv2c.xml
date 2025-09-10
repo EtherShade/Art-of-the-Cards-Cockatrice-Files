@@ -25,7 +25,8 @@
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Cost = 0
+      <text>Suit = Ink
+Cost = 0
 Starting Endurance: 5
 Tap this: You gain 1 Ink.</text>
     </card>
@@ -45,7 +46,8 @@ Tap this: You gain 1 Ink.</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Cost = 0
+      <text>Suit = Mask
+Cost = 0
 At the start of your beginning phase, destroy Comedy and create a Tragedy token.
 Tap this: You gain 1 Comedy Mask.</text>
     </card>
@@ -65,7 +67,8 @@ Tap this: You gain 1 Comedy Mask.</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Cost = 0
+      <text>Suit = Mask
+Cost = 0
 At the start of your beginning phase, destroy Tragedy and create a Comedy token.
 Tap this: You gain 1 Tragedy Mask.</text>
     </card>
@@ -85,7 +88,8 @@ Tap this: You gain 1 Tragedy Mask.</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Cost = 3 Ink
+      <text>Suit = Ink
+Cost = 3 Ink
 Return all Inkwell medium cards from your discard pile to your play zone.</text>
     </card>
     <card>
@@ -104,7 +108,8 @@ Return all Inkwell medium cards from your discard pile to your play zone.</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Cost = 1 Ink
+      <text>Suit = Ink
+Cost = 1 Ink
 Starting Endurance: 3
 Attack = 1</text>
     </card>
@@ -124,7 +129,8 @@ Attack = 1</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Cost = 0
+      <text>Suit = Ink
+Cost = 0
 Starting Endurance: 3
 Attack = 0</text>
     </card>
@@ -144,7 +150,8 @@ Attack = 0</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Cost = 1 Ink
+      <text>Suit = Ink
+Cost = 1 Ink
 Starting Endurance: 1
 Attack = 2</text>
     </card>
@@ -164,7 +171,8 @@ Attack = 2</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Cost = 1 Any, 1 Ink
+      <text>Suit = Ink
+Cost = 1 Any, 1 Ink
 Starting Endurance: 3
 Attack = 2</text>
     </card>
@@ -184,7 +192,8 @@ Attack = 2</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Cost = 1 Any, 1 Ink
+      <text>Suit = Ink
+Cost = 1 Any, 1 Ink
 Starting Endurance: 1
 Attack = 3</text>
     </card>
@@ -204,7 +213,8 @@ Attack = 3</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Cost = 2 Any, 1 Ink
+      <text>Suit = Ink
+Cost = 2 Any, 1 Ink
 Starting Endurance: 1
 Attack = 3
 Armor 1  (This permanent takes 1 less damage from combat damage.)</text>
@@ -225,7 +235,8 @@ Armor 1  (This permanent takes 1 less damage from combat damage.)</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Cost = 2 Any, 1 Ink
+      <text>Suit = Ink
+Cost = 2 Any, 1 Ink
 Starting Endurance: 3
 Attack = 2
 Armor 1  (This permanent takes 1 less damage from combat damage.)</text>
@@ -246,7 +257,8 @@ Armor 1  (This permanent takes 1 less damage from combat damage.)</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Cost = 1 Any, 1 Ink
+      <text>Suit = Ink
+Cost = 1 Any, 1 Ink
 Starting Endurance: 4
 Attack = 0
 Armor 1  (This permanent takes 1 less damage from combat damage.)</text>
@@ -267,7 +279,8 @@ Armor 1  (This permanent takes 1 less damage from combat damage.)</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Cost = 1 Ink
+      <text>Suit = Ink
+Cost = 1 Ink
 Starting Endurance: 4
 Attack = 0</text>
     </card>
@@ -287,7 +300,8 @@ Attack = 0</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Cost = 2 Any, 1 Ink
+      <text>Suit = Ink
+Cost = 2 Any, 1 Ink
 Starting Endurance: 4
 Attack = 3</text>
     </card>
@@ -307,7 +321,8 @@ Attack = 3</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Cost = X Any, 1 Ink
+      <text>Suit = Ink
+Cost = X Any, 1 Ink
 Starting Endurance: X
 Attack = 0
 Inkshifter enters play zones with X +1 Attack counters.</text>
@@ -328,7 +343,8 @@ Inkshifter enters play zones with X +1 Attack counters.</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Cost = 1 Ink
+      <text>Suit = Ink
+Cost = 1 Ink
 Inky Pyre deals 1 damage to each creature.</text>
     </card>
     <card>
@@ -347,7 +363,8 @@ Inky Pyre deals 1 damage to each creature.</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Cost = 1 Ink
+      <text>Suit = Ink
+Cost = 1 Ink
 Draw a card. You gain 2 DP.</text>
     </card>
     <card>
@@ -366,8 +383,30 @@ Draw a card. You gain 2 DP.</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Cost = 2 Any, 1 Ink
+      <text>Suit = Ink
+Cost = 2 Any, 1 Ink
 Draw two cards.</text>
+    </card>
+    <card>
+      <name>Prophecy of Ink</name>
+      <set rarity="rare">ACA</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Asset</type>
+        <maintype>Asset</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Suit = Ink
+Cost = 3 Any, 2 Ink
+Starting Endurance: 4
+You may play cards from the top of your deck.</text>
     </card>
 
     <!-->Tokens</-->
@@ -383,7 +422,8 @@ Draw two cards.</text>
 !related Tragedy;Tragedy [Token] MOD</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Cost = 0
+      <text>Suit = Mask
+Cost = 0
 At the start of your beginning phase, destroy Comedy and create a Tragedy token.
 Tap this: You gain 1 Comedy Mask</text>
       <token>1</token>
@@ -401,12 +441,54 @@ Tap this: You gain 1 Comedy Mask</text>
 !related Comedy;Comedy [Token] MOD</notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Cost = 0
+      <text>Suit = Mask
+Cost = 0
 At the start of your beginning phase, destroy Tragedy and create a Comedy token.
 Tap this: You gain 1 Tragedy Mask.</text>
       <token>1</token>
       <reverse-related>Comedy</reverse-related>
       <reverse-related>Comedy [Token] MOD</reverse-related>
+    </card>
+    <card>
+      <name>Research Reminder [Token-like] ACA</name>
+      <set>ACA</set>
+      <prop>
+        <colors></colors>
+        <type>Token</type>
+        <maintype>Token</maintype>
+        <notes>!token</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>>0 DP: Put the top card of your deck on the bottom of your deck. You gain 2 DP.
+		>0 DP: Draw a card.
+		>1 DP: Store the top card of your deck.
+		>1 DP: Destroy the top card of your deck.
+		>2 DP: Search your deck for a basic medium card, reveal it, and put it into your hand.
+		>3 DP: Draw a card.
+		>5 DP: Draw two cards.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Set Reminder [Token-like] ACA</name>
+      <set>ACA</set>
+      <prop>
+        <colors></colors>
+        <type>Token</type>
+        <maintype>Token</maintype>
+        <notes>!token</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>>When a quester card is put into your set area, put it into a set already there with two or fewer cards in it, or put it into a new set.
+>Sets containing three cards are known as complete sets.
+>When you complete a set, trigger the applicable abilities of the questers in the set.
+>Sets containing only cards of the same suit are mono sets.
+>Sets containing only cards of different suits are trio sets.
+>Sets containing only cards with the same cost value are equivalent sets.
+>Sets containing only cards with cost values that form a line (such as {4}, {5}, and 6 or {6}, 7 and 8) are consecutive sets.
+>Complete sets that are one or more of mono, trio, equivalent, and/or consecutive are glorious.
+>When you assemble a glorious set, each opponent draws a card.
+>You win the game if you’ve assembled three complete glorious sets.</text>
+      <token>1</token>
     </card>
 
   </cards>
