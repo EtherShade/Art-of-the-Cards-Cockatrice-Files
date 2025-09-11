@@ -129,8 +129,7 @@ Attack = 1</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Suit = Ink
-Cost = 0
+      <text>Cost = 0
 Starting Endurance: 3
 Attack = 0</text>
     </card>
@@ -481,11 +480,10 @@ Tap this: You gain 1 Tragedy Mask.</text>
       <text>>When a quester card is put into your set area, put it into a set already there with two or fewer cards in it, or put it into a new set.
 >Sets containing three cards are known as complete sets.
 >When you complete a set, trigger the applicable abilities of the questers in the set.
->Sets containing only cards of the same suit are mono sets.
 >Sets containing only cards of different suits are trio sets.
 >Sets containing only cards with the same cost value are equivalent sets.
 >Sets containing only cards with cost values that form a line (such as {4}, {5}, and 6 or {6}, 7 and 8) are consecutive sets.
->Complete sets that are one or more of mono, trio, equivalent, and/or consecutive are glorious.
+>Complete sets that are one or more of trio, equivalent, and/or consecutive are glorious.
 >When you assemble a glorious set, each opponent draws a card.
 >You win the game if you’ve assembled three complete glorious sets.</text>
       <token>1</token>
